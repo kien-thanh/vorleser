@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenvs, model weights, caches
+envs/
+models/
+
+# Generated output and inputs
+work/
+samples/
+*.epub
+*.m4b
+*.mp3
+
+# Reference voices taken from books (keep designed voices only)
+voices/quest.*
